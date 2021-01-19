@@ -1,0 +1,94 @@
+.container{
+    height: 1000px;
+    width: auto;
+    height: 780px;
+    background-position: center;
+    background-size:cover;
+    background-color: rgba(0, 128, 128, 0);
+    background-image: url(images/baack49.jpg);
+    background-repeat: no-repeat;
+    background-size:auto;
+
+}
+    
+   
+
+html{
+
+    height: 100%;
+    
+
+}
+
+
+header{
+
+    
+    height: 120px;
+    width: auto;
+    padding-top: 40px;
+    background-color:rgba(255, 99, 71, 0);
+    
+}
+header a{
+
+    color: white;
+    text-emphasis: bold;
+    text-align: center;
+    text-decoration: none;
+    margin-left: 294px;
+    
+}
+
+.leftside{
+
+    float:left; 
+    background: rgba(255, 0, 0, 0); 
+    width:33.3%; 
+    height:250px;
+    text-align: left;
+    color: white;
+    font-size: 20px;
+    padding-left: 20px;
+
+}
+
+.rightside{
+
+    float:right; 
+    background-color:rgba(0, 0, 255, 0); 
+    width:33.3%; 
+    height:150px;
+    margin-top: 10px;
+    padding-right: 160px;
+    text-align: left;
+    color: white;
+    font-size: 20px;
+}
+
+.hobbies{
+    float:right;
+    margin-right: 280px;
+    margin-top: 120px;
+    text-emphasis: bold;
+    font-size: 27px;
+    color: white;
+}
+
+.main{
+
+    margin-top: 10px;
+    margin-left: 130px;
+    text-emphasis: bold;
+    font-size: 27px;
+    color: white;
+
+
+}
+
+br{
+    line-height: 30%;
+}
+
+
+

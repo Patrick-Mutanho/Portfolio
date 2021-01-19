@@ -1,0 +1,45 @@
+html{
+
+height: 100%;
+
+}
+
+
+header{
+
+    
+    width: auto;
+    height: 120px;
+    background-color: rgb(255, 136, 0);
+
+}
+
+.rightbox{
+ 
+    float:right; 
+    background-color:blue; 
+    width:33.3%; 
+    height:280px;
+
+}
+
+.middlebox{
+
+    float:left;  
+    background:Green; 
+    width:33.3%; 
+    height:280px;
+
+}
+
+.leftbox{
+
+    float:left; 
+    background: red; 
+    width:33.3%; 
+    height:280px;
+
+}
+
+
+

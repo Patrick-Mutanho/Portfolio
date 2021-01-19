@@ -1,0 +1,137 @@
+html{
+
+height: 100%;
+
+}
+
+.container{
+
+    background-color: teal;
+    width: auto;
+    height: 700px;
+    background-image:url(images/back32.jpg);
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-size:auto;
+    
+
+
+}
+
+header {
+
+    width: auto;
+    height: 120px;
+    background-color: rgba(255, 136, 0, 0);
+    padding-top: 40px;
+
+
+}
+
+.rightbox{
+ 
+    float:right; 
+    background-color:rgba(0, 0, 255, 0); 
+    width:33.3%; 
+    height:580px;
+
+}
+
+.middlebox{
+
+    float:left;  
+    background:rgba(0, 128, 0, 0); 
+    width:33.3%; 
+    height:580px;
+
+}
+
+.leftbox{
+
+    float:left; 
+    background: rgba(255, 0, 0, 0); 
+    width:33.3%; 
+    height:580px;
+
+}
+.python{
+
+    text-align: center;
+    text-emphasis: bold;
+    color: white;
+    font-size: 25px;
+
+}
+.JAVA{
+
+    text-align: center;
+    text-emphasis: bold;
+    color: white;
+    font-size: 25px;
+}
+.ML{
+
+    text-align: center;
+    text-emphasis: bold;
+    color: white;
+    font-size: 25px;
+
+}
+
+header a{
+
+    color: white;
+    text-emphasis: bold;
+    text-align: center;
+    text-decoration: none;
+    margin-left: 280px;
+    
+}
+
+.fincal{
+
+    color: white;
+    text-align: center;
+    text-emphasis: bold;
+    text-decoration: none;
+    font-size: 20px;
+    padding-left: 140px;
+
+}
+
+.taskm{
+   
+    color: white;
+    text-align: center;
+    text-emphasis: bold;
+    text-decoration: none;
+    font-size: 20px;
+    padding-left: 120px;
+    padding-bottom: 90px;
+
+}
+.zombie{
+
+    color: white;
+    text-align: center;
+    text-emphasis: bold;
+    text-decoration: none;
+    font-size: 20px;
+    padding-left: 130px;
+    padding-bottom: 90px;
+    line-height: 45px;
+
+}
+.poise{
+
+    color: white;
+    text-align: center;
+    text-emphasis: bold;
+    text-decoration: none;
+    font-size: 20px;
+    padding-left: 100px;
+    padding-bottom: 90px;
+    line-height: 45px;
+
+}
